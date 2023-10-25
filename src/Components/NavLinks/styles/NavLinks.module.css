@@ -1,0 +1,13 @@
+.navExtLinks {
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+    gap: 0.25rem;
+    text-align: right;
+    /* margin: auto; */
+    /* margin-left: auto; */
+    /* display: grid;
+    grid-template-columns: repeat(4, minmax(25%, auto));
+    max-width: 100%;
+    width: var(--max-width); */
+  }
