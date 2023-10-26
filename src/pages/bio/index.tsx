@@ -25,7 +25,7 @@ function Bio() {
           <h1>About</h1>
           <div className={`${styles.bioBody}`}>
             <p>
-              <b>My name is Pat</b> (in case you couldn't guess from my handle, <b>s3cpat</b>). My pronouns are <b>he/him or they/them</b>.
+              <b>My name is Pat</b> (in case you couldn&apos;t guess from my handle, <b>s3cpat</b>). My pronouns are <b>he/him or they/them</b>.
             </p>
             <p>
               I am an <b>information security professional</b> living in Pennsylvania, USA. I am currently a <b>Senior Information Security Consultant</b>, where my job responsibilities include security engineering efforts like <b>SOAR</b> automation, <b>detection rule</b> creation and tuning, and much, much more.
@@ -48,7 +48,7 @@ function Bio() {
 
             <p>I aim to write for fellow computer security and technology enthusiasts; where appropriate, I will strive to include helpful background information (or at least link to places one can learn more).</p>
 
-            <p>I don't expect every post will be extremely formal, but we'll see how things go. {`:)`}</p>
+            <p>I don&apos;t expect every post will be extremely formal, but we&apos;ll see how things go. {`:)`}</p>
           </div>
         </div>
       </main>
